@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuraj</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Trainee Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraj2601&label=Profile%20views&color=0e75b6&style=flat" alt="anuraj2601" /> </p>
 
